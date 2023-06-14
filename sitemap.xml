@@ -49,7 +49,7 @@
 
   <url>
     <loc>https://calmchih.github.io/</loc>
-    <lastmod>2023-06-09</lastmod>
+    <lastmod>2023-06-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,35 +57,35 @@
   
   <url>
     <loc>https://calmchih.github.io/tags/Hexo/</loc>
-    <lastmod>2023-06-09</lastmod>
+    <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://calmchih.github.io/tags/GitHub/</loc>
-    <lastmod>2023-06-09</lastmod>
+    <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://calmchih.github.io/tags/Git/</loc>
-    <lastmod>2023-06-09</lastmod>
+    <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://calmchih.github.io/tags/node-js/</loc>
-    <lastmod>2023-06-09</lastmod>
+    <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://calmchih.github.io/tags/blog/</loc>
-    <lastmod>2023-06-09</lastmod>
+    <lastmod>2023-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
